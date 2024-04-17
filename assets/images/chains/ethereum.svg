@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>Ethereum</title>
+  <path fill="#627eea" d="M32 16c0 8.837-7.163 16-16 16s-16-7.163-16-16c0-8.837 7.163-16 16-16s16 7.163 16 16z"/>
+  <path fill="#fff" opacity="0.602" d="M16.499 3.998v8.87l7.497 3.35z"/>
+  <path fill="#fff" d="M16.499 3.998l-7.497 12.221 7.497-3.35z"/>
+  <path fill="#fff" opacity="0.602" d="M16.499 21.966v6.027l7.501-10.379z"/>
+  <path fill="#fff" d="M16.499 27.993v-6.027l-7.497-4.352z"/>
+  <path fill="#fff" opacity="0.2" d="M16.499 20.571l7.497-4.352-7.497-3.35z"/>
+  <path fill="#fff" opacity="0.602" d="M9.002 16.219l7.497 4.352v-7.703z"/>
+</svg>
